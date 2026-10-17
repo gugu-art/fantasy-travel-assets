@@ -1,10 +1,12 @@
 {
-  "version": 1,
-  "date": "2026-10-13",
-  "purpose": "Classified handbook image assets",
-  "imageCount": 100,
-  "imageBytes": 259595897,
+  "version": 2,
+  "date": "2026-10-17",
+  "purpose": "电脑前端图像与字体目录",
+  "imageCount": 130,
+  "imageBytes": 267863507,
   "originalBytesPreserved": true,
+  "fontCount": 2,
+  "licenseCount": 2,
   "entries": [
     {
       "filename": "ledger-scenes__approved-ledger-v3.png",
@@ -1306,6 +1308,382 @@
       "bytes": 1009903,
       "sha256": "3efc8e847bffd354f90844b467613692e5acfa4ea74ff0509cd14e35dbb7492d",
       "category": "revision"
+    },
+    {
+      "path": "images/revision/revision__notebook-frame-v1.png",
+      "assetKeys": [
+        "notebook-frame-v1"
+      ],
+      "bytes": 1710646,
+      "sha256": "4cf581ac728ae840d9bde7d88a40e21182c848363288afe2193b79c4ffec6854",
+      "kind": "image",
+      "width": 1837,
+      "height": 856,
+      "filename": "revision__notebook-frame-v1.png",
+      "category": "revision"
+    },
+    {
+      "path": "images/revision/revision__pov-crystal-reference-xingxing.png",
+      "assetKeys": [
+        "pov-crystal-reference-xingxing"
+      ],
+      "bytes": 1631558,
+      "sha256": "7d4ce901dd5f08ff181f69fcd54352fae39d2ff4d1d25f2423032bd0dbfe7657",
+      "kind": "image",
+      "width": 2172,
+      "height": 724,
+      "filename": "revision__pov-crystal-reference-xingxing.png",
+      "category": "revision"
+    },
+    {
+      "path": "images/revision/revision__pov-crystal-reference-xiaogai.png",
+      "assetKeys": [
+        "pov-crystal-reference-xiaogai"
+      ],
+      "bytes": 1630442,
+      "sha256": "da30acbf1f98af4945b43d2d547297491520b062b967cc07ae8d45974495881f",
+      "kind": "image",
+      "width": 2172,
+      "height": 724,
+      "filename": "revision__pov-crystal-reference-xiaogai.png",
+      "category": "revision"
+    },
+    {
+      "path": "images/revision/revision__pov-crystal-clean-portrait-backdrop-xingxing.png",
+      "assetKeys": [
+        "pov-crystal-clean-portrait-backdrop-xingxing"
+      ],
+      "bytes": 1599500,
+      "sha256": "285f639cf26bfbe70e024a75e2e40d2bfd1c18d3558682601c8f7fb54aee2159",
+      "kind": "image",
+      "width": 2172,
+      "height": 724,
+      "filename": "revision__pov-crystal-clean-portrait-backdrop-xingxing.png",
+      "category": "revision"
+    },
+    {
+      "path": "images/revision/revision__pov-crystal-clean-portrait-backdrop-xiaogai.png",
+      "assetKeys": [
+        "pov-crystal-clean-portrait-backdrop-xiaogai"
+      ],
+      "bytes": 1632660,
+      "sha256": "2ca995162998f43c101de5d00a1e31247ca12e76b71c234eda7af7f93dc93392",
+      "kind": "image",
+      "width": 2172,
+      "height": 724,
+      "filename": "revision__pov-crystal-clean-portrait-backdrop-xiaogai.png",
+      "category": "revision"
+    },
+    {
+      "path": "images/interaction/interaction__pov-crystal-header-mask.svg",
+      "assetKeys": [
+        "pov-crystal-header-mask"
+      ],
+      "bytes": 731,
+      "sha256": "986416d471d590e487bc309d8e0f25cf9174214016730e0ed9a0e8d2545c26b5",
+      "kind": "image",
+      "filename": "interaction__pov-crystal-header-mask.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-clear.svg",
+      "assetKeys": [
+        "weather-clear"
+      ],
+      "bytes": 2827,
+      "sha256": "20b7a0b14b6ecb4e308dfc678d09cf629164ca050e12ed26114e235ecb335f61",
+      "kind": "image",
+      "filename": "interaction__weather-clear.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-clear-night.svg",
+      "assetKeys": [
+        "weather-clear-night"
+      ],
+      "bytes": 1945,
+      "sha256": "ce88eb89008b1b54e88ac3a12daeb8eed8057b4fa2c4837c1904200e62c80110",
+      "kind": "image",
+      "filename": "interaction__weather-clear-night.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-partly-cloudy.svg",
+      "assetKeys": [
+        "weather-partly-cloudy"
+      ],
+      "bytes": 3245,
+      "sha256": "55e3898769d2194425d8c6d7ee9a7de9e9c229ab23684c067b4501b16745b824",
+      "kind": "image",
+      "filename": "interaction__weather-partly-cloudy.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-cloudy-night.svg",
+      "assetKeys": [
+        "weather-cloudy-night"
+      ],
+      "bytes": 2191,
+      "sha256": "d8fc9a1b6d51b9f4cd8fcb434e620d1f696555a07c56bb99b469dd98f2767621",
+      "kind": "image",
+      "filename": "interaction__weather-cloudy-night.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-overcast.svg",
+      "assetKeys": [
+        "weather-overcast"
+      ],
+      "bytes": 2038,
+      "sha256": "9489b99650d020fa3b11eb9a10587c9589294b72f78668c6744669bf321659e7",
+      "kind": "image",
+      "filename": "interaction__weather-overcast.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-mist.svg",
+      "assetKeys": [
+        "weather-mist"
+      ],
+      "bytes": 1905,
+      "sha256": "3098bab670089cbdd482c36b5f5e0cd1a87f3c858b9eff3167dbe1c4043688de",
+      "kind": "image",
+      "filename": "interaction__weather-mist.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-fog.svg",
+      "assetKeys": [
+        "weather-fog"
+      ],
+      "bytes": 1981,
+      "sha256": "78b4626755538ce99203befb6d0ce59dcab64fa1f1aeb4992843ec675c76473c",
+      "kind": "image",
+      "filename": "interaction__weather-fog.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-haze.svg",
+      "assetKeys": [
+        "weather-haze"
+      ],
+      "bytes": 2935,
+      "sha256": "4998832354a0a9f8822bec2eb48e5b9b488caf1ca49d52ffaf2cddaf6cf1bae4",
+      "kind": "image",
+      "filename": "interaction__weather-haze.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-breeze.svg",
+      "assetKeys": [
+        "weather-breeze"
+      ],
+      "bytes": 1660,
+      "sha256": "0a9247d49bf62e4d6d96a4e06b497e805415206cb8967a8d5ad5b87abb103e71",
+      "kind": "image",
+      "filename": "interaction__weather-breeze.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-wind.svg",
+      "assetKeys": [
+        "weather-wind"
+      ],
+      "bytes": 1675,
+      "sha256": "d7dd4a06e16a64a86932a81cecadff06b88ab359813e3ed84e57a12dd302bedc",
+      "kind": "image",
+      "filename": "interaction__weather-wind.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-showers.svg",
+      "assetKeys": [
+        "weather-showers"
+      ],
+      "bytes": 3701,
+      "sha256": "9896d2548d29398e5dd28bfbf77e9c778a82c82c5544d9b2135bfff6d0c3634f",
+      "kind": "image",
+      "filename": "interaction__weather-showers.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-light-rain.svg",
+      "assetKeys": [
+        "weather-light-rain"
+      ],
+      "bytes": 1920,
+      "sha256": "83f114e29fb5484a44dd9e5aa94e508b992e559334c8af7fb65550cac8eb4c31",
+      "kind": "image",
+      "filename": "interaction__weather-light-rain.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-rain.svg",
+      "assetKeys": [
+        "weather-rain"
+      ],
+      "bytes": 2439,
+      "sha256": "91c74a6510ced766f199af7eff42827d96c4714dde9dd54d5805332e524d6883",
+      "kind": "image",
+      "filename": "interaction__weather-rain.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-heavy-rain.svg",
+      "assetKeys": [
+        "weather-heavy-rain"
+      ],
+      "bytes": 2958,
+      "sha256": "bbbbe6d6ec1ed60523d42688b993aefcea7318b5e9203fad844c6f8d9aff6f8e",
+      "kind": "image",
+      "filename": "interaction__weather-heavy-rain.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-downpour.svg",
+      "assetKeys": [
+        "weather-downpour"
+      ],
+      "bytes": 3481,
+      "sha256": "0612631919928fb7e261e56e2822f164a5640404db72f0fb71f545c878045424",
+      "kind": "image",
+      "filename": "interaction__weather-downpour.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-thunder-showers.svg",
+      "assetKeys": [
+        "weather-thunder-showers"
+      ],
+      "bytes": 2320,
+      "sha256": "310e0ce47db14c92da67692795c945978d254742c500e546c3bb3bbd7b9048fe",
+      "kind": "image",
+      "filename": "interaction__weather-thunder-showers.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-thunderstorm.svg",
+      "assetKeys": [
+        "weather-thunderstorm"
+      ],
+      "bytes": 2176,
+      "sha256": "45343909072e2b41dc785038644a52650298c0cf001ccd4625ca8532ec48625f",
+      "kind": "image",
+      "filename": "interaction__weather-thunderstorm.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-light-snow.svg",
+      "assetKeys": [
+        "weather-light-snow"
+      ],
+      "bytes": 2238,
+      "sha256": "7cdd2cf4ae3901c62d62e5509d5decad931c02aad99c9c7b59e1e6ebe08ce185",
+      "kind": "image",
+      "filename": "interaction__weather-light-snow.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-snow.svg",
+      "assetKeys": [
+        "weather-snow"
+      ],
+      "bytes": 3393,
+      "sha256": "cd09225c0e851505a3ffc9d00c9d602495f171960bc8c7bc1b700402664bbb53",
+      "kind": "image",
+      "filename": "interaction__weather-snow.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-heavy-snow.svg",
+      "assetKeys": [
+        "weather-heavy-snow"
+      ],
+      "bytes": 4551,
+      "sha256": "f3307842f563ea4c0fa3890bcff00b865c2dc4e43ea2856eb11f5fd98f487a83",
+      "kind": "image",
+      "filename": "interaction__weather-heavy-snow.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-blizzard.svg",
+      "assetKeys": [
+        "weather-blizzard"
+      ],
+      "bytes": 3672,
+      "sha256": "0f8b74ed8c620ec144a1adef9436bc88f603f65c73d3d98043d206115ca58c17",
+      "kind": "image",
+      "filename": "interaction__weather-blizzard.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-sleet.svg",
+      "assetKeys": [
+        "weather-sleet"
+      ],
+      "bytes": 2760,
+      "sha256": "e1e5da4ecb497e2ab5b9f31f84c0c76945f768eb36824db1be6d0ac4d30dc853",
+      "kind": "image",
+      "filename": "interaction__weather-sleet.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-hail.svg",
+      "assetKeys": [
+        "weather-hail"
+      ],
+      "bytes": 1926,
+      "sha256": "ee27279e95a6686481f69acd6e27b3f9fac12b8f71e4ec59e65e86bb95df6d97",
+      "kind": "image",
+      "filename": "interaction__weather-hail.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "images/interaction/interaction__weather-dust.svg",
+      "assetKeys": [
+        "weather-dust"
+      ],
+      "bytes": 2136,
+      "sha256": "e727bf897fcce80f77e58e46ddee57a26aef5a840ba83da08a992ccafa08c6f7",
+      "kind": "image",
+      "filename": "interaction__weather-dust.svg",
+      "category": "interaction"
+    },
+    {
+      "path": "fonts/NotoSerifSC.woff2",
+      "assetKeys": [],
+      "bytes": 11010112,
+      "sha256": "5451341fd9611a9d616e7ac8b3c6a9f1f9eefe3351aec2c515c954d6e692ef88",
+      "kind": "font",
+      "filename": "NotoSerifSC.woff2",
+      "category": "fonts"
+    },
+    {
+      "path": "fonts/Allura-Regular.ttf",
+      "assetKeys": [],
+      "bytes": 246632,
+      "sha256": "9c142b2e515832c0dfc4ff8b8ea18f40314943bf937b72e2b23c4661bac14cc6",
+      "kind": "font",
+      "filename": "Allura-Regular.ttf",
+      "category": "fonts"
+    },
+    {
+      "path": "fonts/OFL.txt",
+      "assetKeys": [],
+      "bytes": 4350,
+      "sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6",
+      "kind": "license",
+      "filename": "OFL.txt",
+      "category": "fonts"
+    },
+    {
+      "path": "fonts/Allura-OFL.txt",
+      "assetKeys": [],
+      "bytes": 4478,
+      "sha256": "c8cb4c94a558b6cb82ac5dc981a73a0b8aee35a5c52c8a7832fc0280c289ad49",
+      "kind": "license",
+      "filename": "Allura-OFL.txt",
+      "category": "fonts"
     }
   ]
 }
