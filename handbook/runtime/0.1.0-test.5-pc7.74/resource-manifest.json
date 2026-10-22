@@ -1,0 +1,32 @@
+{
+  "version": "test.5-pc7.74-github-resources",
+  "repository": "gugu-art/fantasy-travel-assets",
+  "image": {
+    "path": "handbook/images/controls/mobile-crystal-master-v1.png",
+    "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/641c1b48fcdd77cd3bd014d0270ee69024373bb0/handbook/images/controls/mobile-crystal-master-v1.png",
+    "sha256": "32616bf87efea1454fd67f5bcd30bf9efac36d915f812ca5f26fdd129287afe2",
+    "bytes": 1555969
+  },
+  "runtime": [
+    {
+      "path": "handbook/runtime/0.1.0-test.5-pc7.74/handbook-2c438ce5ba998aa56899040d0a311fca.js",
+      "bytes": 920649,
+      "sha256": "2c438ce5ba998aa56899040d0a311fca2a9fbfad0937ba1bcd08bbb910a0e3aa",
+      "category": "script"
+    },
+    {
+      "path": "handbook/runtime/0.1.0-test.5-pc7.74/handbook.css",
+      "bytes": 205427,
+      "sha256": "97f3dee2b61e7a9171dd6e2e82b9ca3f20bf766604dee747082c4e8a7d3fa7fe",
+      "category": "styles"
+    },
+    {
+      "path": "handbook/runtime/0.1.0-test.5-pc7.74/pov-header.css",
+      "bytes": 9543,
+      "sha256": "ed54a40a8b8b4a43058129bfed8096bbb375923df126f76d183a6303082a1a45",
+      "category": "styles"
+    }
+  ],
+  "existingRemoteFiles": 605,
+  "mediaFiles": 606
+}
