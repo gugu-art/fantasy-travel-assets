@@ -1,0 +1,577 @@
+{
+  "revision": "test.5-pc7.75-generic-item-art",
+  "runtime": {
+    "file": "handbook-1ebad632dea155b6753cdbc89a899b8c.js",
+    "sha256": "1ebad632dea155b6753cdbc89a899b8c19abe7f0e1f8fefc599d81435091f59c",
+    "bytes": 955051
+  },
+  "images": [
+    {
+      "id": "longsword",
+      "path": "handbook/images/generic-items/weapons/generic-longsword.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/weapons/generic-longsword.png",
+      "bytes": 1259934,
+      "sha256": "92a3148c46159e34b19124987b3136d9f72167054974ee49f67c04599f0b9212"
+    },
+    {
+      "id": "greatsword",
+      "path": "handbook/images/generic-items/weapons/generic-greatsword.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/weapons/generic-greatsword.png",
+      "bytes": 1309959,
+      "sha256": "efaff21d4e603ffbec632c9df49a49069e2ef6c7610b29bec255d79960ec0acd"
+    },
+    {
+      "id": "rapier",
+      "path": "handbook/images/generic-items/weapons/generic-rapier.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/weapons/generic-rapier.png",
+      "bytes": 779554,
+      "sha256": "e7738a2c1fffcece5aade8b1982a280df47e491d041d43b70d3c66d0e9d179a2"
+    },
+    {
+      "id": "shortsword",
+      "path": "handbook/images/generic-items/weapons/generic-shortsword.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/weapons/generic-shortsword.png",
+      "bytes": 1094041,
+      "sha256": "02df1502f7bce110c8837b7e85493f3e21296ef10c4665e4e5986b32c83b1008"
+    },
+    {
+      "id": "dagger",
+      "path": "handbook/images/generic-items/weapons/generic-dagger.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/weapons/generic-dagger.png",
+      "bytes": 809918,
+      "sha256": "877fd356fa4700bc9300fffaaa2975a6021006b4872790d2bbb3ca0f946d6fad"
+    },
+    {
+      "id": "scimitar",
+      "path": "handbook/images/generic-items/weapons/generic-scimitar.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/weapons/generic-scimitar.png",
+      "bytes": 677290,
+      "sha256": "898bebc6e401a4cfdfa0c218e7d6e407f6f862d65e60e75b5de6f8c0d9688124"
+    },
+    {
+      "id": "battleaxe",
+      "path": "handbook/images/generic-items/weapons/generic-battleaxe.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/weapons/generic-battleaxe.png",
+      "bytes": 1426715,
+      "sha256": "955565ab32c59fdcd311bbeed7fbf3fefc3a019986731e63de63904fc50e9628"
+    },
+    {
+      "id": "warhammer",
+      "path": "handbook/images/generic-items/weapons/generic-warhammer.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/weapons/generic-warhammer.png",
+      "bytes": 1669238,
+      "sha256": "c206fdb6040334e93276a3d3b62cf518c876f010dde42f06f2fbbbdb700aa58a"
+    },
+    {
+      "id": "spear",
+      "path": "handbook/images/generic-items/weapons/generic-spear.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/weapons/generic-spear.png",
+      "bytes": 517240,
+      "sha256": "3e3579685982f214d1deeda309f0743d2f61fcb08e1b61ba0ceaa0b58d5d5fc2"
+    },
+    {
+      "id": "bow",
+      "path": "handbook/images/generic-items/weapons/generic-bow.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/weapons/generic-bow.png",
+      "bytes": 994893,
+      "sha256": "edadfc5f3c31adfb9589ebe4e8acce8ab944bfd46d7ec757d75d4e5dc4f1a914"
+    },
+    {
+      "id": "crossbow",
+      "path": "handbook/images/generic-items/weapons/generic-crossbow.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/weapons/generic-crossbow.png",
+      "bytes": 1360524,
+      "sha256": "e62605a37515af24666b6d856e75bd9a553874de6cef2a5075be7c7b75beae1e"
+    },
+    {
+      "id": "staff",
+      "path": "handbook/images/generic-items/weapons/generic-staff.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/weapons/generic-staff.png",
+      "bytes": 1022958,
+      "sha256": "a67f9af028760cfee3b55d847a1227d7551f43683fa97937bdd906a4de791224"
+    },
+    {
+      "id": "wand-scepter",
+      "path": "handbook/images/generic-items/weapons/generic-wand-scepter.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/weapons/generic-wand-scepter.png",
+      "bytes": 825264,
+      "sha256": "e896c2550eab76cc9e5d24165df3948c2e6ca549ac8dc1254e0dda29f9b8ee67"
+    },
+    {
+      "id": "spellbook",
+      "path": "handbook/images/generic-items/weapons/generic-spellbook.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/weapons/generic-spellbook.png",
+      "bytes": 1932041,
+      "sha256": "426cf4ba28eb6c8b0e58d173e17d94ef77d94d67a1cdf2e10ed2c2840d5c0af2"
+    },
+    {
+      "id": "orb",
+      "path": "handbook/images/generic-items/weapons/generic-orb.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/weapons/generic-orb.png",
+      "bytes": 1626351,
+      "sha256": "03c2835c049aa879beb674edd41f1882cdc48950ae6a32f364a3e35f1426de92"
+    },
+    {
+      "id": "shield",
+      "path": "handbook/images/generic-items/weapons/generic-shield.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/weapons/generic-shield.png",
+      "bytes": 1762118,
+      "sha256": "22882eb379b2c35c5a7edbf41d903ce17aefe8d2fcaeca2dbd1bf53737b06b15"
+    },
+    {
+      "id": "cloak",
+      "path": "handbook/images/generic-items/clothing/generic-cloak.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/clothing/generic-cloak.png",
+      "bytes": 2062060,
+      "sha256": "aa1be6102e555ece9c429b362963d7f8a9a1bf28371734089b5b4c0fbde361fd"
+    },
+    {
+      "id": "robe",
+      "path": "handbook/images/generic-items/clothing/generic-robe.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/clothing/generic-robe.png",
+      "bytes": 1975992,
+      "sha256": "1aca7a374c95f9c16001b48c505100955b0e53681faf3b3c1bed7c04acf94ebe"
+    },
+    {
+      "id": "casual-outfit",
+      "path": "handbook/images/generic-items/clothing/generic-casual-outfit.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/clothing/generic-casual-outfit.png",
+      "bytes": 2172777,
+      "sha256": "73d594975b0d8c8b00851a26dee26063ed00091d8d57efec958c8a7d82e06f05"
+    },
+    {
+      "id": "dress",
+      "path": "handbook/images/generic-items/clothing/generic-dress.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/clothing/generic-dress.png",
+      "bytes": 1733541,
+      "sha256": "45a342ace843b537e0c136c55449cc5dcae6a8ebf24d55a75ed7a96f9e668093"
+    },
+    {
+      "id": "leather-armor",
+      "path": "handbook/images/generic-items/clothing/generic-leather-armor.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/clothing/generic-leather-armor.png",
+      "bytes": 1912546,
+      "sha256": "c925216761c0cf3200908864324bbba972da6322323cb746238984b0f6226bbb"
+    },
+    {
+      "id": "chainmail",
+      "path": "handbook/images/generic-items/clothing/generic-chainmail.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/clothing/generic-chainmail.png",
+      "bytes": 2984540,
+      "sha256": "96c2204f1747887250371405dd51520fc827b60b9abe9f2702d4a5b0bac9d5a1"
+    },
+    {
+      "id": "plate-armor",
+      "path": "handbook/images/generic-items/clothing/generic-plate-armor.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/clothing/generic-plate-armor.png",
+      "bytes": 1697602,
+      "sha256": "de74ff011c018571f57ef0b93ba418794f7b3fd913302a087b4928afc45c7488"
+    },
+    {
+      "id": "hat",
+      "path": "handbook/images/generic-items/clothing/generic-hat.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/clothing/generic-hat.png",
+      "bytes": 1513370,
+      "sha256": "5bf735818b791d1fc8328fdb0365773baeb41dee68cafa1cfe7b53875520524b"
+    },
+    {
+      "id": "helmet",
+      "path": "handbook/images/generic-items/clothing/generic-helmet.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/clothing/generic-helmet.png",
+      "bytes": 1367231,
+      "sha256": "03bae052ab87d72b18fbf706cecb137d96df690db5befba2ca596536048dbb1b"
+    },
+    {
+      "id": "gloves",
+      "path": "handbook/images/generic-items/clothing/generic-gloves.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/clothing/generic-gloves.png",
+      "bytes": 1903421,
+      "sha256": "3218d55fa11df8d2a935cebec0d6c9731a7ed214b94c68432644e2328a793374"
+    },
+    {
+      "id": "boots",
+      "path": "handbook/images/generic-items/clothing/generic-boots.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/clothing/generic-boots.png",
+      "bytes": 2100709,
+      "sha256": "4f945c90c430a5fa25a060008df7f2ba1da897178a396fb93ceef296ae0db210"
+    },
+    {
+      "id": "belt",
+      "path": "handbook/images/generic-items/clothing/generic-belt.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/clothing/generic-belt.png",
+      "bytes": 1520919,
+      "sha256": "05f0fac540810aec790a94f748f0cba1e8fbeedbb80ce4ca46c91e507e811880"
+    },
+    {
+      "id": "ring",
+      "path": "handbook/images/generic-items/jewelry/generic-ring.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/jewelry/generic-ring.png",
+      "bytes": 940960,
+      "sha256": "055abdd83f078d94fa1731688d6911148442e7d9bc274e280e531780fb89c8fd"
+    },
+    {
+      "id": "necklace",
+      "path": "handbook/images/generic-items/jewelry/generic-necklace.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/jewelry/generic-necklace.png",
+      "bytes": 816964,
+      "sha256": "40b9915d5dfdd8ba2d1fef45329a322fa728e01b9c29c51c34b246d12ed20d49"
+    },
+    {
+      "id": "earrings",
+      "path": "handbook/images/generic-items/jewelry/generic-earrings.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/jewelry/generic-earrings.png",
+      "bytes": 753610,
+      "sha256": "50ee1652eb9045756edb2a02cc474e8782aed5ea70fabb4df2be7678d46c793c"
+    },
+    {
+      "id": "brooch",
+      "path": "handbook/images/generic-items/jewelry/generic-brooch.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/jewelry/generic-brooch.png",
+      "bytes": 1691613,
+      "sha256": "42ee373904d072e070635e2e3bd6d68f210af40cb4223509613a9b916288c4d8"
+    },
+    {
+      "id": "diadem",
+      "path": "handbook/images/generic-items/jewelry/generic-diadem.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/jewelry/generic-diadem.png",
+      "bytes": 1318393,
+      "sha256": "4e0f24a8cbc50344f2ca352c6f6eb3091894b43b6d5421836764f37fbde45ff9"
+    },
+    {
+      "id": "bread",
+      "path": "handbook/images/generic-items/food-drink/generic-bread.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/food-drink/generic-bread.png",
+      "bytes": 2267077,
+      "sha256": "9bea0e4b34a07198eb528f8793d1068f70e9147251d0bf1e50ca095fef8aa1eb"
+    },
+    {
+      "id": "savory-pie",
+      "path": "handbook/images/generic-items/food-drink/generic-savory-pie.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/food-drink/generic-savory-pie.png",
+      "bytes": 2641002,
+      "sha256": "cea670f13f4734760fbb13a272ed91c223b1b6fcbe309554095ecb49c156525f"
+    },
+    {
+      "id": "pastries-sweets",
+      "path": "handbook/images/generic-items/food-drink/generic-pastries-sweets.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/food-drink/generic-pastries-sweets.png",
+      "bytes": 2262190,
+      "sha256": "368ad5aab545e13fddb255e08800062e490da7b2036f21f6f039c31a98f36fc4"
+    },
+    {
+      "id": "soup",
+      "path": "handbook/images/generic-items/food-drink/generic-soup.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/food-drink/generic-soup.png",
+      "bytes": 2092118,
+      "sha256": "52b1fbd9d858dd314f8a7a7819f4f1022e851b6a22d192dcbc08b35642f310d1"
+    },
+    {
+      "id": "stew",
+      "path": "handbook/images/generic-items/food-drink/generic-stew.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/food-drink/generic-stew.png",
+      "bytes": 2337745,
+      "sha256": "df68b71c786524972487e6bf803221780b1d05ff3d344fe3ed285034baff7219"
+    },
+    {
+      "id": "meat",
+      "path": "handbook/images/generic-items/food-drink/generic-meat.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/food-drink/generic-meat.png",
+      "bytes": 2488139,
+      "sha256": "481e7389a097138908e7b2928216a414b6fdb007483f009e1b0acb03d1c427be"
+    },
+    {
+      "id": "fish",
+      "path": "handbook/images/generic-items/food-drink/generic-fish.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/food-drink/generic-fish.png",
+      "bytes": 2611143,
+      "sha256": "b7c754c57519cc07d69a1edd7b21e9b2b17a388d3f4fc39007d1c171865ee5a9"
+    },
+    {
+      "id": "rice-noodles",
+      "path": "handbook/images/generic-items/food-drink/generic-rice-noodles.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/food-drink/generic-rice-noodles.png",
+      "bytes": 2017465,
+      "sha256": "8fb4e1982206b0bce2f280a729cf55f9180d9230784ecf6b345e5955f829f494"
+    },
+    {
+      "id": "cheese-dairy",
+      "path": "handbook/images/generic-items/food-drink/generic-cheese-dairy.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/food-drink/generic-cheese-dairy.png",
+      "bytes": 2308068,
+      "sha256": "9334839b1a899684ea26de9f3450454afe99623c55c6b2566a1782e48dcbaede"
+    },
+    {
+      "id": "produce",
+      "path": "handbook/images/generic-items/food-drink/generic-produce.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/food-drink/generic-produce.png",
+      "bytes": 2661101,
+      "sha256": "d08e8804680ce3e17639122e04aff9dbf306ae175127f1427299bc9faabb7ab5"
+    },
+    {
+      "id": "rations",
+      "path": "handbook/images/generic-items/food-drink/generic-rations.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/food-drink/generic-rations.png",
+      "bytes": 2405750,
+      "sha256": "5597c40c1d03cc933e3bec0b1443fa91cae588de134f6b1bd5897dadecad0e9f"
+    },
+    {
+      "id": "water",
+      "path": "handbook/images/generic-items/food-drink/generic-water.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/food-drink/generic-water.png",
+      "bytes": 2088296,
+      "sha256": "66101fc1564808a28396a9ac4e9f91b124982040e634b418b076c68edcf492cb"
+    },
+    {
+      "id": "tea-fruit-drink",
+      "path": "handbook/images/generic-items/food-drink/generic-tea-fruit-drink.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/food-drink/generic-tea-fruit-drink.png",
+      "bytes": 2025098,
+      "sha256": "c3bcc318c10a707f6cb869995210b24eed578026f9106644e27dc15ccad4482c"
+    },
+    {
+      "id": "wine",
+      "path": "handbook/images/generic-items/food-drink/generic-wine.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/food-drink/generic-wine.png",
+      "bytes": 1851429,
+      "sha256": "af99d9a7284c3c827c516a99d9f96f5deb23e811b502de6d6e6eef7f08fb2de4"
+    },
+    {
+      "id": "herbs",
+      "path": "handbook/images/generic-items/materials/generic-herbs.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/materials/generic-herbs.png",
+      "bytes": 2713181,
+      "sha256": "916596f957c9c0359652073e50ce1f8f388c03d8ebb93fdd818dffc5d7b91eca"
+    },
+    {
+      "id": "mushrooms",
+      "path": "handbook/images/generic-items/materials/generic-mushrooms.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/materials/generic-mushrooms.png",
+      "bytes": 2243131,
+      "sha256": "ef10efc1b7e2da88c5627f546262a916eb1de231c40825424549c897928dd1a4"
+    },
+    {
+      "id": "timber",
+      "path": "handbook/images/generic-items/materials/generic-timber.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/materials/generic-timber.png",
+      "bytes": 2736439,
+      "sha256": "b3d5c9d23264c35aaf2c70362a80606da24cd492324ca8bb2af61b7fd8a96732"
+    },
+    {
+      "id": "ore",
+      "path": "handbook/images/generic-items/materials/generic-ore.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/materials/generic-ore.png",
+      "bytes": 2493966,
+      "sha256": "252b9f63e867b559b774179d2fc41ac7447bcc424c0ecd4be3febf0110fe28dd"
+    },
+    {
+      "id": "metal-ingots",
+      "path": "handbook/images/generic-items/materials/generic-metal-ingots.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/materials/generic-metal-ingots.png",
+      "bytes": 1917616,
+      "sha256": "1b1dbc1abcabb2f5fe5395d9004f02909dd046aab4e83e037c52f606521199f0"
+    },
+    {
+      "id": "gems-pearls",
+      "path": "handbook/images/generic-items/materials/generic-gems-pearls.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/materials/generic-gems-pearls.png",
+      "bytes": 1955255,
+      "sha256": "75d89d1516e0495c80f98df01b4ca41f3af58cf2b7e6ddcd72a5878e128d0e9d"
+    },
+    {
+      "id": "magic-crystal",
+      "path": "handbook/images/generic-items/materials/generic-magic-crystal.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/materials/generic-magic-crystal.png",
+      "bytes": 2082093,
+      "sha256": "e94f2f6b037c1946b3d09a0aec7252b879c9cfaf173415b5dbda7046d50a5ae3"
+    },
+    {
+      "id": "leather",
+      "path": "handbook/images/generic-items/materials/generic-leather.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/materials/generic-leather.png",
+      "bytes": 2284970,
+      "sha256": "119743ab228bab31bacf46104816d6c930d8667a932572b26d5b15f8b5510f3a"
+    },
+    {
+      "id": "fur",
+      "path": "handbook/images/generic-items/materials/generic-fur.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/materials/generic-fur.png",
+      "bytes": 2598756,
+      "sha256": "062f28b3e132a8818c526f1f97849c2edabbc3e7555b6bb85e6838cacc07d3e8"
+    },
+    {
+      "id": "feathers",
+      "path": "handbook/images/generic-items/materials/generic-feathers.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/materials/generic-feathers.png",
+      "bytes": 2213104,
+      "sha256": "64b96f56200368aeb585efac671199911f9d66065cd8ffca26348027c8d5c2d8"
+    },
+    {
+      "id": "fabric-thread",
+      "path": "handbook/images/generic-items/materials/generic-fabric-thread.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/materials/generic-fabric-thread.png",
+      "bytes": 2622626,
+      "sha256": "3f903d69f92a4684aaf78d67faef04a28e5d3aee0f20ed827e931e48209e0934"
+    },
+    {
+      "id": "bone-fang-scale-horn",
+      "path": "handbook/images/generic-items/materials/generic-bone-fang-scale-horn.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/materials/generic-bone-fang-scale-horn.png",
+      "bytes": 1628747,
+      "sha256": "82fe9798dbd1800fda70d2f482459c2e56e8a37e546414737dd64143616d52e1"
+    },
+    {
+      "id": "resin-wax",
+      "path": "handbook/images/generic-items/materials/generic-resin-wax.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/materials/generic-resin-wax.png",
+      "bytes": 2289323,
+      "sha256": "c523b9b71c0ca8956bf1aac4f8cc8a0e37527af1ba815899a6bfac650ad5631d"
+    },
+    {
+      "id": "alchemy-ingredients",
+      "path": "handbook/images/generic-items/materials/generic-alchemy-ingredients.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/materials/generic-alchemy-ingredients.png",
+      "bytes": 2147054,
+      "sha256": "7b0fd8e77df18017fd6c3b5268270f1901007b10f6923a2786b11e1408719f1b"
+    },
+    {
+      "id": "potion",
+      "path": "handbook/images/generic-items/travel-magic/generic-potion.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/travel-magic/generic-potion.png",
+      "bytes": 1908383,
+      "sha256": "59a735c50d73a46e40205228c45da02900b51fe5e91a8f4fddd194c8274bf724"
+    },
+    {
+      "id": "medical-supplies",
+      "path": "handbook/images/generic-items/travel-magic/generic-medical-supplies.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/travel-magic/generic-medical-supplies.png",
+      "bytes": 2444367,
+      "sha256": "8d704718c85d9342f18be6f1d9dfe66892ea5362de2d8837b57683404acf1224"
+    },
+    {
+      "id": "scroll",
+      "path": "handbook/images/generic-items/travel-magic/generic-scroll.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/travel-magic/generic-scroll.png",
+      "bytes": 1501348,
+      "sha256": "de6035053c01903531e3aaf072d9125e9d8ef7996a7a92964d1f5dbd5a782c4d"
+    },
+    {
+      "id": "book",
+      "path": "handbook/images/generic-items/travel-magic/generic-book.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/travel-magic/generic-book.png",
+      "bytes": 2045594,
+      "sha256": "3194b978b010604ecf3a619504f9e2e3ab744ee723e01a08d9953e0c4df7a933"
+    },
+    {
+      "id": "stationery",
+      "path": "handbook/images/generic-items/travel-magic/generic-stationery.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/travel-magic/generic-stationery.png",
+      "bytes": 1892480,
+      "sha256": "8d5a4b297d2b3d121c5ba27e14a4df7b5bfb1d1f0762e94fc7ba9d45a223ebf4"
+    },
+    {
+      "id": "map-compass",
+      "path": "handbook/images/generic-items/travel-magic/generic-map-compass.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/travel-magic/generic-map-compass.png",
+      "bytes": 2318802,
+      "sha256": "bada4ed4bd3ded80c1ab6ab94ecf6ebe74da80e8d61e7cf9e99caf36ab762c89"
+    },
+    {
+      "id": "lantern",
+      "path": "handbook/images/generic-items/travel-magic/generic-lantern.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/travel-magic/generic-lantern.png",
+      "bytes": 1089011,
+      "sha256": "88244dda8f8c159dcbf2e8621edb8dac26453f8422294be6409b44c297cca100"
+    },
+    {
+      "id": "rope",
+      "path": "handbook/images/generic-items/travel-magic/generic-rope.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/travel-magic/generic-rope.png",
+      "bytes": 2333687,
+      "sha256": "39b12d43ce40419fe76793fde9b7a05f154733639cfb8d9dca7260f22c90b75c"
+    },
+    {
+      "id": "camping-kit",
+      "path": "handbook/images/generic-items/travel-magic/generic-camping-kit.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/travel-magic/generic-camping-kit.png",
+      "bytes": 2487799,
+      "sha256": "1cdb03964b7b9f685943662785cf193fc28094a5c0db0f83ad821ecc9520eed3"
+    },
+    {
+      "id": "hand-tools",
+      "path": "handbook/images/generic-items/travel-magic/generic-hand-tools.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/travel-magic/generic-hand-tools.png",
+      "bytes": 2434094,
+      "sha256": "7f8c2f92d20fbe8fa5f0c0c39ca3e186366ab57ab0513c73af493e8c80dbfcb7"
+    },
+    {
+      "id": "bags-containers",
+      "path": "handbook/images/generic-items/travel-magic/generic-bags-containers.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/travel-magic/generic-bags-containers.png",
+      "bytes": 2411585,
+      "sha256": "0e1cfc8ed90d0f2eb63f04e97402eb459408f55771e1df65330e6daaeb1165ec"
+    },
+    {
+      "id": "runestone",
+      "path": "handbook/images/generic-items/travel-magic/generic-runestone.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/travel-magic/generic-runestone.png",
+      "bytes": 1539987,
+      "sha256": "4f068a5fb5712e8b5db117118442f6cc51ad32a7dae5484c2600bae9d6ff9e09"
+    },
+    {
+      "id": "bookmark-cards",
+      "path": "handbook/images/generic-items/souvenirs/generic-bookmark-cards.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/souvenirs/generic-bookmark-cards.png",
+      "bytes": 2660060,
+      "sha256": "227ce9e10c7b701631b12567496aa7ade62f5f01df634c4e182722d6dddc6a4a"
+    },
+    {
+      "id": "doll",
+      "path": "handbook/images/generic-items/souvenirs/generic-doll.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/souvenirs/generic-doll.png",
+      "bytes": 2603737,
+      "sha256": "2e8aa9978a14562d7d10fc0ed4327c6c5f4befa3eea9138629cd4fe07f2fb1f2"
+    },
+    {
+      "id": "carved-figurine",
+      "path": "handbook/images/generic-items/souvenirs/generic-carved-figurine.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/souvenirs/generic-carved-figurine.png",
+      "bytes": 2124806,
+      "sha256": "298aae9a3a4da866c272da32f26c41b5d52486f49990e5bb877b74ddd32c0aaf"
+    },
+    {
+      "id": "badge-coins",
+      "path": "handbook/images/generic-items/souvenirs/generic-badge-coins.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/souvenirs/generic-badge-coins.png",
+      "bytes": 2257375,
+      "sha256": "bd74925517477a4cdde95b4384395a247f61d59782007cef5eed15a01a91405f"
+    },
+    {
+      "id": "music-box",
+      "path": "handbook/images/generic-items/souvenirs/generic-music-box.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/souvenirs/generic-music-box.png",
+      "bytes": 2205029,
+      "sha256": "468976d4ee6bfe115e34a0ed2c2b6fe462e4f715a7823418bd3095a67c56f5d6"
+    },
+    {
+      "id": "cups-dishes",
+      "path": "handbook/images/generic-items/souvenirs/generic-cups-dishes.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/souvenirs/generic-cups-dishes.png",
+      "bytes": 2135124,
+      "sha256": "ed4d7d2c47fbac12464e1c07b6d1fb2da68ebbf30b284b8d42d6850b8ab6f728"
+    },
+    {
+      "id": "sachet-candle",
+      "path": "handbook/images/generic-items/souvenirs/generic-sachet-candle.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/souvenirs/generic-sachet-candle.png",
+      "bytes": 2409188,
+      "sha256": "7dec0a53e3d2d221193a1b2c305a12ea0b458c4acb81785029bc19384a1fc7fe"
+    },
+    {
+      "id": "tapestry",
+      "path": "handbook/images/generic-items/souvenirs/generic-tapestry.png",
+      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/098b1479e3e82e6a80320056169ce8f2518f9e46/handbook/images/generic-items/souvenirs/generic-tapestry.png",
+      "bytes": 2675283,
+      "sha256": "a91c818b4fbd3498689fdcbd8831c0f3d677b50ece16778228d905ef2857aa77"
+    }
+  ]
+}
