@@ -1,9 +1,9 @@
 {
   "revision": "test.5-pc7.75-generic-item-art",
   "runtime": {
-    "file": "handbook-1ebad632dea155b6753cdbc89a899b8c.js",
-    "sha256": "1ebad632dea155b6753cdbc89a899b8c19abe7f0e1f8fefc599d81435091f59c",
-    "bytes": 955051
+    "file": "handbook-00f784387db710a097c2e90dae385a96.js",
+    "sha256": "00f784387db710a097c2e90dae385a96da44b49ca8ddbee322bd8d3c8eaa648f",
+    "bytes": 955242
   },
   "images": [
     {
