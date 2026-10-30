@@ -3,16 +3,16 @@
   "entry": "ui-geometric desktop",
   "javascript": {
     "file": "handbook.js",
-    "bytes": 899030,
-    "sha256": "fb1875f257dab4cff0ba859d8de1c77dbd89beac66b45d325b6063783cf749a3"
+    "bytes": 899135,
+    "sha256": "6418e559eb238b2eed230c5863b5b6c42a39b4d0af6cf67f0cbcad007bf7573e"
   },
   "stylesheet": {
     "file": "handbook.css.gz",
     "compression": "gzip",
-    "bytes": 4522778,
-    "sha256": "d8a0ac78a7b5efec6d0838c8171758b8e50d132d0bff5e4bd4e130077cdfdde9",
-    "uncompressedBytes": 30600986,
-    "uncompressedSHA256": "b82f562077c95f52b31fe83812c0d103ec7e7bf1288a9ff4e82d7fbe548d43c6"
+    "bytes": 4522773,
+    "sha256": "6585fd87f7cbdc91f2288466b1718b11212955548d042ba7595054c73d6a43a5",
+    "uncompressedBytes": 30600968,
+    "uncompressedSHA256": "864718f4c63e1a486ae02be1a518a40344ed2079880f2e51e1e74c78d2ae1c85"
   },
   "media": {
     "file": "media-manifest.json",

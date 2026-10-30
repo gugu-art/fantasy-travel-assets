@@ -2890,10 +2890,11 @@
       "bytes": 130872,
       "sha256": "4e65a1f9260dbf2faa107935267c5b2b9ae7010b1ad40c7ff62edde0a93ffdbc",
       "commit": "0b8b9c164b73a6a69eb3cf9cfcfe8120fce6573e",
-      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/0b8b9c164b73a6a69eb3cf9cfcfe8120fce6573e/handbook/fonts/xiaowei/AtlasXiaoWei-20261027.woff2",
-      "contentType": "application/octet-stream",
+      "url": "https://cdn.jsdelivr.net/gh/gugu-art/fantasy-travel-assets@0b8b9c164b73a6a69eb3cf9cfcfe8120fce6573e/handbook/fonts/xiaowei/AtlasXiaoWei-20261027.woff2",
+      "contentType": "font/woff2",
       "cors": "*",
-      "verified": true
+      "verified": true,
+      "rawURL": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/0b8b9c164b73a6a69eb3cf9cfcfe8120fce6573e/handbook/fonts/xiaowei/AtlasXiaoWei-20261027.woff2"
     },
     {
       "id": "asset:BondsXiaoWei-CurrentRelation-20261028.woff2",
@@ -2903,10 +2904,11 @@
       "bytes": 6724,
       "sha256": "a99c479cb15465b3dc8e0d5fe8b12c23cd1c685aca5ec603251d38353319e57c",
       "commit": "0b8b9c164b73a6a69eb3cf9cfcfe8120fce6573e",
-      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/0b8b9c164b73a6a69eb3cf9cfcfe8120fce6573e/handbook/fonts/xiaowei/BondsXiaoWei-CurrentRelation-20261028.woff2",
-      "contentType": "application/octet-stream",
+      "url": "https://cdn.jsdelivr.net/gh/gugu-art/fantasy-travel-assets@0b8b9c164b73a6a69eb3cf9cfcfe8120fce6573e/handbook/fonts/xiaowei/BondsXiaoWei-CurrentRelation-20261028.woff2",
+      "contentType": "font/woff2",
       "cors": "*",
-      "verified": true
+      "verified": true,
+      "rawURL": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/0b8b9c164b73a6a69eb3cf9cfcfe8120fce6573e/handbook/fonts/xiaowei/BondsXiaoWei-CurrentRelation-20261028.woff2"
     },
     {
       "id": "asset:AtlasXiaoWei-Collapse-20261027.woff2",
@@ -2916,10 +2918,11 @@
       "bytes": 2596,
       "sha256": "5eac51a592377d96474a3a1e42d703e45f5a306fb016ba85f2b71fcb6908d7db",
       "commit": "0b8b9c164b73a6a69eb3cf9cfcfe8120fce6573e",
-      "url": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/0b8b9c164b73a6a69eb3cf9cfcfe8120fce6573e/handbook/fonts/xiaowei/AtlasXiaoWei-Collapse-20261027.woff2",
-      "contentType": "application/octet-stream",
+      "url": "https://cdn.jsdelivr.net/gh/gugu-art/fantasy-travel-assets@0b8b9c164b73a6a69eb3cf9cfcfe8120fce6573e/handbook/fonts/xiaowei/AtlasXiaoWei-Collapse-20261027.woff2",
+      "contentType": "font/woff2",
       "cors": "*",
-      "verified": true
+      "verified": true,
+      "rawURL": "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/0b8b9c164b73a6a69eb3cf9cfcfe8120fce6573e/handbook/fonts/xiaowei/AtlasXiaoWei-Collapse-20261027.woff2"
     },
     {
       "id": "license:xiaowei",

@@ -11832,7 +11832,7 @@ var XinghaiMessageHandbook = (() => {
   };
 
   // src/ui-geometric/assets/fonts/AtlasXiaoWei-20261027.woff2
-  var AtlasXiaoWei_20261027_default = "https://raw.githubusercontent.com/gugu-art/fantasy-travel-assets/0b8b9c164b73a6a69eb3cf9cfcfe8120fce6573e/handbook/fonts/xiaowei/AtlasXiaoWei-20261027.woff2";
+  var AtlasXiaoWei_20261027_default = "https://cdn.jsdelivr.net/gh/gugu-art/fantasy-travel-assets@0b8b9c164b73a6a69eb3cf9cfcfe8120fce6573e/handbook/fonts/xiaowei/AtlasXiaoWei-20261027.woff2";
 
   // src/ui-geometric/region-atlas-labels.mjs
   var NS = "http://www.w3.org/2000/svg";
@@ -11842,11 +11842,12 @@ var XinghaiMessageHandbook = (() => {
   var edge = "#9e7839";
   var paper = "#fff2d7";
   var typeSize = { city: 32, place: 27, village: 23, water: 29, exit: 24 };
-  var atlasLabelStyle = `
-@font-face{font-family:AtlasXiaoWei;src:url('${AtlasXiaoWei_20261027_default}') format('woff2');font-weight:400;font-style:normal;font-display:swap}
+  var atlasLabelRules = `
 .at-region-labels{position:absolute;inset:0;width:100%;height:100%;overflow:hidden;pointer-events:none}
 .at-region-labels text{font-family:AtlasXiaoWei,serif;font-weight:400;font-synthesis:none;text-rendering:geometricPrecision}
 `;
+  var atlasLabelStyle = `@font-face{font-family:AtlasXiaoWei;src:url('${AtlasXiaoWei_20261027_default}') format('woff2');font-weight:400;font-style:normal;font-display:swap}
+${atlasLabelRules}`;
   function riverText(label) {
     const size = label.fontSize ?? (/[河溪]$/.test(label.text) ? 23 : typeSize.water);
     const attrs = `class="atlas-label--water" font-size="${size}" fill="#205a79" stroke="#fff5dc" stroke-opacity=".95" stroke-width="1" paint-order="stroke"`;
@@ -11877,11 +11878,11 @@ var XinghaiMessageHandbook = (() => {
       return `<g ${common} data-role="${role}" transform="translate(${x} ${y})">${nameplate(role, width, height)}<text x="0" y="0" font-size="${size}" letter-spacing="1" fill="${role === "city" ? "#fff1cf" : ink}">${escape(label.text)}</text></g>`;
     }).join("")}</g>`;
   }
-  function atlasLabelSvg(labels3, imageHref = null) {
-    return `<svg xmlns="${NS}" class="at-region-labels" viewBox="0 0 1774 887" preserveAspectRatio="none" role="group" aria-label="\u5730\u56FE\u5730\u540D"><style>${atlasLabelStyle}</style>${imageHref ? `<image href="${escape(imageHref)}" width="1774" height="887"/>` : ""}${atlasLabelContent(labels3)}</svg>`;
+  function atlasLabelSvg(labels3, imageHref = null, includeFont = true) {
+    return `<svg xmlns="${NS}" class="at-region-labels" viewBox="0 0 1774 887" preserveAspectRatio="none" role="group" aria-label="\u5730\u56FE\u5730\u540D"><style>${includeFont ? atlasLabelStyle : atlasLabelRules}</style>${imageHref ? `<image href="${escape(imageHref)}" width="1774" height="887"/>` : ""}${atlasLabelContent(labels3)}</svg>`;
   }
   function createAtlasLabelLayer(labels3) {
-    return new DOMParser().parseFromString(atlasLabelSvg(labels3), "image/svg+xml").documentElement;
+    return new DOMParser().parseFromString(atlasLabelSvg(labels3, null, false), "image/svg+xml").documentElement;
   }
 
   // src/ui-geometric/assets/map-ornament-c-20261027.png
