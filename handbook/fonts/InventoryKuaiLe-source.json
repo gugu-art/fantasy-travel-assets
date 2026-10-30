@@ -1,0 +1,33 @@
+{
+  "family": "ZCOOL KuaiLe",
+  "weight": 400,
+  "upstream": "https://github.com/googlefonts/zcool-kuaile",
+  "repository": "https://github.com/google/fonts",
+  "files": [
+    {
+      "name": "ZCOOLKuaiLe-Regular.ttf",
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/zcoolkuaile/ZCOOLKuaiLe-Regular.ttf",
+      "bytes": 1514968,
+      "sha256": "812a6fc1fe54b6d73a419245c32dfeba8aa33104d5be90d1cf6af082007cb71d"
+    },
+    {
+      "name": "OFL.txt",
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/zcoolkuaile/OFL.txt",
+      "bytes": 4398,
+      "sha256": "538078469839b4a2e7ad22bef4ebe41681a4e53749bb2a072144024f1d6d703d"
+    },
+    {
+      "name": "METADATA.pb",
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/zcoolkuaile/METADATA.pb",
+      "bytes": 671,
+      "sha256": "fc1f48f54521ac41b8aa59d5b44c6b3c7cb7d24b9d4d499564c9febd01f84769"
+    }
+  ],
+  "bytes": 871812,
+  "sha256": "9507c82ec1a3754f7387e99cf5fb5e7db866c4e305f3706859db4b10ec3403f1",
+  "glyphCount": 7053,
+  "missingFoodCharacters": [
+    "焗"
+  ],
+  "conversion": "FontTools woff2; full glyph set retained"
+}
