@@ -1,0 +1,35 @@
+[
+  {
+    "file": "JourneySans-full.woff2",
+    "family": "Noto Sans SC",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanssc/NotoSansSC%5Bwght%5D.ttf",
+    "characters": 30890,
+    "bytes": 7781652,
+    "sha256": "d82ae993e0f3b241d9c1179ce8f6cb327399ec106c7d8779e9097b38e15169f7",
+    "axes": [
+      [
+        "wght",
+        100.0,
+        900.0
+      ]
+    ]
+  },
+  {
+    "file": "JourneyDisplay-full.woff2",
+    "family": "ZCOOL XiaoWei",
+    "source": "https://fonts.gstatic.com/s/zcoolxiaowei/v15/i7dMIFFrTRywPpUVX9_RJyM1YFI.ttf",
+    "characters": 7016,
+    "bytes": 2632980,
+    "sha256": "d9e77a541c9d3fa2d40f9693cae2db4fdcd24f40b762c66945eb2719fa58b651",
+    "axes": []
+  },
+  {
+    "file": "Outfit.woff2",
+    "family": "Outfit",
+    "source": "https://fonts.googleapis.com/css2?family=Outfit%3Awght%40400..650&display=swap&text=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789.%2C%3A%3B!%3F()%2F-%C2%B7%20",
+    "characters": 74,
+    "bytes": 16404,
+    "sha256": "d47b47382fdd9b81062d760c46748d1dd392cb17586cfbb09394341e65b1a9dd",
+    "axes": []
+  }
+]
