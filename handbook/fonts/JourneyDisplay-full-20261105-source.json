@@ -1,0 +1,8 @@
+{
+  "source": "existing ZCOOL XiaoWei / JourneyDisplay-full.ttf",
+  "license": "SIL OFL 1.1",
+  "change": "U+5703 圃: reverse the inner rectangular contour to restore the counter; remove this glyph hint program",
+  "unchangedGlyphs": 7017,
+  "bytes": 2632832,
+  "sha256": "aa274aa9a7729862bc91bc860b5884721ac973b5ce46f8820e7c389071404f6c"
+}
